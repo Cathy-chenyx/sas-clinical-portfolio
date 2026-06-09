@@ -1,6 +1,6 @@
 # SAS 临床数据作品集
 
-> 准备 CTA-Digital 岗位的 SAS 宏编程与 CDISC 标准化学习项目
+> SAS 宏编程与 CDISC 标准化学习项目
 
 **作者**: Chen Yixin 
 **GitHub**: [Cathy-chenyx](https://github.com/Cathy-chenyx)  
