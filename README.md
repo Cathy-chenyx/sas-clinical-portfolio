@@ -2,7 +2,7 @@
 
 > 准备 CTA-Digital 岗位的 SAS 宏编程与 CDISC 标准化学习项目
 
-**作者**: Chen Yixin 
+**作者**: Chen Yixin  
 **GitHub**: [Cathy-chenyx](https://github.com/Cathy-chenyx)  
 **学习目标**: 掌握 SAS 宏编程和 CDISC 标准，胜任临床试验数据管理工作
 
