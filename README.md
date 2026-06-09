@@ -2,7 +2,7 @@
 
 > 准备 CTA-Digital 岗位的 SAS 宏编程与 CDISC 标准化学习项目
 
-**作者**: Chen Yuxuan  
+**作者**: Chen Yixin 
 **GitHub**: [Cathy-chenyx](https://github.com/Cathy-chenyx)  
 **学习目标**: 掌握 SAS 宏编程和 CDISC 标准，胜任临床试验数据管理工作
 
@@ -201,36 +201,6 @@ sas-clinical-portfolio/
 ## 📧 联系方式
 
 - **GitHub**: [Cathy-chenyx](https://github.com/Cathy-chenyx)
-- **邮箱**: [你的邮箱]
-- **LinkedIn**: [你的LinkedIn]
+- **邮箱**: 3227042017@i.smu.edu.cn
+- **LinkedIn**: [www.linkedin.com/in/yixin-chen-1a809b36a]
 
----
-
-## 🎯 面试准备
-
-### 核心能力
-
-1. **SAS 宏编程**
-   - 能够编写参数化的批量处理宏
-   - 理解宏变量作用域（局部/全局）
-   - 掌握调试技巧（MPRINT, SYMBOLGEN）
-
-2. **CDISC 标准**
-   - 理解 SDTM 数据结构
-   - 能够创建核心域（DM, AE, LB）
-   - 了解监管提交要求
-
-3. **数据管理**
-   - 数据质量检查和验证
-   - 缺失值和异常值处理
-   - 数据清理流程自动化
-
-### 项目展示
-
-> "在我的 ACS 项目中，我需要对6个应激指标进行批量基线分析。我编写了 `%batch_baseline` 宏，通过 `%DO` 循环自动遍历所有指标，生成描述性统计和检验结果。这避免了手动复制代码30次，将分析时间从2小时缩短到5分钟。"
-
----
-
-*本项目用于 CTA-Digital 岗位面试准备*
-
-**最后更新**: 2024年
